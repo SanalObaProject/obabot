@@ -1,0 +1,25 @@
+{
+  "name": "obabot",
+  "version": "1.0.0",
+  "description": "SanalOba Discord ihtiyaçlarını karşılar.",
+  "main": "oba.js",
+  "author": "Çağatay Uslu",
+  "repository": "git@github.com:pasalog/obabot_.git",
+  "config": {
+
+  },
+  "dependencies": {
+    "coinmarketcap": "^0.2.0",
+    "crypto-js": "^3.1.9-1",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "fs": "0.0.1-security",
+    "node-coinmarketcap-api": "^1.0.4",
+    "poloniex-unofficial": "^1.1.2",
+    "request": "^2.88.0",
+    "util": "^0.10.3",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "dotenv": "^6.0.0"
+  }
+}
